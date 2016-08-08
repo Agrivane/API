@@ -12,15 +12,7 @@ To get started:
 ### Version
 2.1.1 (Threshold 1)
 
+### To Deploy
+Easy. Reference config.php (which in turn references api.php) in your code. We've provided some sample functions for use.
 
-Demos can be found at:
-
-  - https://api.td512.io/get/image
-  - https://api.td512.io/get/audio
-  - https://api.td512.io/get/video
-  - https://api.td512.io/get/other
-  - https://api.td512.io/put/image
-  - https://api.td512.io/put/audio
-  - https://api.td512.io/put/video
-  - https://api.td512.io/put/other
-  - https://api.td512.io/api/logon
+Watch this space. New functions coming soon :)
