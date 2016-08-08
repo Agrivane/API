@@ -13,6 +13,6 @@ To get started:
 2.1.1 (Threshold 1)
 
 ### To Deploy
-Easy. Reference config.php (which in turn references api.php) in your code. We've provided some sample functions for use.
+Easy. Reference config.php (which in turn references api.php) in your code. We've provided some sample functions for use. You'll also need the ionCube loader installed to use our API 
 
 Watch this space. New functions coming soon :)
